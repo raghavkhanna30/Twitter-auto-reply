@@ -1,0 +1,23 @@
+{
+  "name": "Twitter-auto-reply",
+  "version": "1.0.0",
+  "description": "Twitter auto reply bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/raghavkhanna30/Twitter-auto-reply.git"
+  },
+  "author": "Arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghavkhanna30/Twitter-auto-reply/issues"
+  },
+  "homepage": "https://github.com/raghavkhanna30/Twitter-auto-reply#readme",
+  "dependencies": {
+    "twitter-lite": "^0.9.4"
+  }
+}
