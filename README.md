@@ -5,7 +5,7 @@ A twitter bot which auto reply tweets based on specific hashtags
 
 Sample: https://twitter.com/theinfernobot
 
-devloper : https://twitter.com/erRaghavKhanna
+developer : https://twitter.com/erRaghavKhanna
 
 ## Features
 
